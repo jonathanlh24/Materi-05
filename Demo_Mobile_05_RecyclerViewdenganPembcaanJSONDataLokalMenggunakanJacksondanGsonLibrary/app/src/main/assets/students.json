@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1072000",
+    "firstName": "Budi",
+    "lastName": "Setiawan",
+    "department": "Teknik Informatika",
+    "address": "Surya Sumantri 1",
+    "phone": "0812212121"
+  },
+  {
+    "id": "1072000",
+    "firstName": "John",
+    "lastName": "Doe",
+    "department": "Teknik Informatika",
+    "address": "Surya Sumantri 1",
+    "phone": "0812212121"
+  },
+  {
+    "id": "1072000",
+    "firstName": "Samuael",
+    "lastName": "Gunawan",
+    "department": "Teknik Informatika",
+    "address": "Surya Sumantri 1",
+    "phone": "0812212121"
+  }
+]
